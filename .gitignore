@@ -43,3 +43,6 @@ next-env.d.ts
 
 # product photo uploads (local storage driver)
 /uploads
+
+# Claude Code instructions
+CLAUDE.md
